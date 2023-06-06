@@ -1,1 +1,1 @@
-# Python_labs
+# Diabetes Prediction
