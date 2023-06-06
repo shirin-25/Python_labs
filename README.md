@@ -1,4 +1,4 @@
 # Diabetes Prediction
 
-Student : **Shirin ...**, **Mattéo Eleouet**, **Zakaria Bouhia**, **Gamal Abdulsalam**
+Student : **Shirin ABOUSALIH**, **Mattéo Eleouet**, **Zakaria Bouhia**, **Gamal Abdulsalam**
 
