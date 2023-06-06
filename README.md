@@ -1,6 +1,4 @@
-# Python_labs
+# Diabetes Prediction
 
-Student : **Shirin ...**, **Mattéo Eleouet**, **Zakaria Bouhia**, **Gamal ..**
-
-## How to install
+Student : **Shirin ...**, **Mattéo Eleouet**, **Zakaria Bouhia**, **Gamal Abdulsalam**
 
