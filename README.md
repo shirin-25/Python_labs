@@ -9,7 +9,7 @@
 ## Technical Requirements
 The `requirements.yml` file contains the necessary Python packages to run the notebook.
 It has been generated using `conda`, not `pip`.
-We recommend you create a new environment with conda with the following command:
+We recommend you create a new environment with conda, with the following command:
 
 `conda env create --name <your_env_name> --file=requirements.yml`
 
