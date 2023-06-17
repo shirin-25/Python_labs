@@ -5,6 +5,7 @@
 - **Mattéo Eleouet**
 - **Zakaria Bouhia**
 - **Gamal Abdulsalam**
+- **Giles Degue**
 
 ## Technical Requirements
 TODO: verify everyone can install the requirements without issue
