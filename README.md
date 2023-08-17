@@ -8,6 +8,14 @@
 - **Gilles Degue**
 
 ## Technical Requirements
+
+### Download the dataset into a 'data' folder in your working directory
+
+Dataset source:
+https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset
+
+### Install the requirements
+
 TODO: verify everyone can install the requirements without issue
 
 The `requirements.yml` file contains the necessary Python packages 
@@ -25,7 +33,7 @@ A `requirements.txt` file in the correct format for `pip install
 #### Project Goal
 The aim of the project is to develop a robust model that utilizes a range 
 of demographic and health-related factors to accurately classify 
-individuals at risk of developing diabetes. By leveraging advanced 
+individuals with diabetes. By leveraging advanced 
 statistical and machine learning techniques, this project aims to improve 
 early detection and provide valuable insights for personalized patient 
 care and effective interventions in the field of diabetes prediction.
@@ -33,16 +41,18 @@ care and effective interventions in the field of diabetes prediction.
 
 ## Content
 #### EDA
+
+We have analyzed the variables that constitute our dataset and extracted useful insights
+for the following steps of our project. We found potential problems for model training,
+such as duplicate rows, for which we could not justify the existence in the data, 
+so we dropped them. We also found what seemed to be inconsistencies at first, but turned 
+out to be features of our dataset that were justified to leave as they were. One example is
+the unusual prevalence of a specific value for the BMI column (27.32), which we concluded was a 
+default value given to patients with an overweight status.
+
+
+
 #### Model training
 #### Model analysis
 
 ## Necessary Deliverables
-
-## Suggested Ways to Get Started
-
-## Useful links 
-
-Dataset source:
-https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset
-
-
