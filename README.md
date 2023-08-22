@@ -29,6 +29,12 @@ following command:
 A `requirements.txt` file in the correct format for `pip install 
 -r requirements.txt` is nonetheless available as well.
 
+## How to use with Docker
+1. Install Docker
+2. docker build -t image_name .
+3. docker run -p 8888:8888 image_name jupyter notebook --ip=0.0.0.0 --port=8888 --allow-root --NotebookApp.token=''
+4. Open `http://localhost:8888/tree?` in your web browser
+
 ## Introduction
 #### Project Goal
 The aim of the project is to develop a robust model that utilizes a range 
