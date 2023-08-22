@@ -35,8 +35,7 @@ A `requirements.txt` file in the correct format for `pip install
 3. docker run -p 8888:8888 image_name jupyter notebook --ip=0.0.0.0 --port=8888 --allow-root --NotebookApp.token=''
 4. Open `http://localhost:8888/tree?` in your web browser
 
-## Introduction
-#### Project Goal
+## Project Goal
 The aim of the project is to develop a robust model that utilizes a range 
 of demographic and health-related factors to accurately classify 
 individuals with diabetes. By leveraging advanced 
@@ -44,9 +43,7 @@ statistical and machine learning techniques, this project aims to improve
 early detection and provide valuable insights for personalized patient 
 care and effective interventions in the field of diabetes prediction.
 
-
-## Content
-#### EDA
+## EDA
 
 We have analyzed the variables that constitute our dataset and extracted useful insights
 for the following steps of our project. We found potential problems for model training,
@@ -57,8 +54,3 @@ the unusual prevalence of a specific value for the BMI column (27.32), which we 
 default value given to patients with an overweight status.
 
 
-
-#### Model training
-#### Model analysis
-
-## Necessary Deliverables
